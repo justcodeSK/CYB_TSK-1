@@ -21,6 +21,12 @@ network exposure
    - Learned different nmap commands and used them in my scan.
    - While testing Nmap commands i used wireshark to discover packets send and recieved, which gave and basic knowledge of TCP 3-Way HandShake(SYN,ACK,RST,FIN).
    - Used TCP (Full open scan) to find all open ports and closed portes and all hosted systems (2 systems) in my network.
-   - 
-   ### Windows Installation:
-   - 
+   - Found all the possible vulnerablities.
+   - Most common ports are 80(HTTP), 443 (HTTPS),  21 (FTP), 22 (SSH), 25 (SMTP), 53 (DNS).
+   ### Windows Based:
+   - Used the gui to do the scan
+   - Used the cmd and Administrator controlled cmd o frun command line nmap.
+## Wire shark
+- Found several packet sharing and recieving and learned the 3 way hand shake.
+- The protocols , packet size, packet per second ,bites per second and detailed information at the end etc, of each packet was really use full to learn a network packet.
+- Found several filters and loopback traffic which is the systems own traffic are also showen.
