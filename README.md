@@ -25,7 +25,7 @@ network exposure
    - Most common ports are 80(HTTP), 443 (HTTPS),  21 (FTP), 22 (SSH), 25 (SMTP), 53 (DNS).
    ### Windows Based:
    - Used the gui to do the scan
-   - Used the cmd and Administrator controlled cmd o frun command line nmap.
+   - Used the cmd and Administrator controlled cmd to run command line nmap.
 ## Wire shark
 - Found several packet sharing and recieving and learned the 3 way hand shake.
 - The protocols , packet size, packet per second ,bites per second and detailed information at the end etc, of each packet was really use full to learn a network packet.
